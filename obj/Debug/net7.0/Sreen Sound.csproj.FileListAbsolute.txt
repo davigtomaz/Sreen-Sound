@@ -1,0 +1,15 @@
+/home/davigtomaz/Documentos/Sreen Sound/bin/Debug/net7.0/Sreen Sound
+/home/davigtomaz/Documentos/Sreen Sound/bin/Debug/net7.0/Sreen Sound.deps.json
+/home/davigtomaz/Documentos/Sreen Sound/bin/Debug/net7.0/Sreen Sound.runtimeconfig.json
+/home/davigtomaz/Documentos/Sreen Sound/bin/Debug/net7.0/Sreen Sound.dll
+/home/davigtomaz/Documentos/Sreen Sound/bin/Debug/net7.0/Sreen Sound.pdb
+/home/davigtomaz/Documentos/Sreen Sound/obj/Debug/net7.0/Sreen Sound.csproj.AssemblyReference.cache
+/home/davigtomaz/Documentos/Sreen Sound/obj/Debug/net7.0/Sreen Sound.GeneratedMSBuildEditorConfig.editorconfig
+/home/davigtomaz/Documentos/Sreen Sound/obj/Debug/net7.0/Sreen Sound.AssemblyInfoInputs.cache
+/home/davigtomaz/Documentos/Sreen Sound/obj/Debug/net7.0/Sreen Sound.AssemblyInfo.cs
+/home/davigtomaz/Documentos/Sreen Sound/obj/Debug/net7.0/Sreen Sound.csproj.CoreCompileInputs.cache
+/home/davigtomaz/Documentos/Sreen Sound/obj/Debug/net7.0/Sreen Sound.dll
+/home/davigtomaz/Documentos/Sreen Sound/obj/Debug/net7.0/refint/Sreen Sound.dll
+/home/davigtomaz/Documentos/Sreen Sound/obj/Debug/net7.0/Sreen Sound.pdb
+/home/davigtomaz/Documentos/Sreen Sound/obj/Debug/net7.0/Sreen Sound.genruntimeconfig.cache
+/home/davigtomaz/Documentos/Sreen Sound/obj/Debug/net7.0/ref/Sreen Sound.dll

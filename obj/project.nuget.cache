@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w3gPGgcLlLn+apQnZBfQvD7RGjLvnjIhLeiw3SyjavFRkHo4R1Ciw970Ae4kIjmJbH1b/h7KkMAxRAamlVg/lA==",
+  "success": true,
+  "projectFilePath": "/home/davigtomaz/Documentos/Sreen Sound/Sreen Sound.csproj",
+  "expectedPackageFiles": [
+    "/home/davigtomaz/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
